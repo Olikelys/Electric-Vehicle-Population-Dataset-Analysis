@@ -16,7 +16,7 @@ Electric-Vehicle-Population-Dataset-Analysis/
 
 
 ## 环境配置（Environment Setup）
-### 1. 安装依赖（Install Dependencies）
+### 安装依赖（Install Dependencies）
 ```bash
 pip install -r requirements.txt
 
@@ -53,7 +53,7 @@ Key Columns: City, State, Postal Code, Model Year, Electric Vehicle Type
 运行时若报错，优先检查依赖是否安装完整（重新运行pip install -r requirements.txt）
 
 
-## 四、运行项目并测试（关键步骤）
+## 运行项目并测试（关键步骤）
 ### 1. 安装依赖
 - 打开VS Code的“终端”（点击菜单栏“终端”→“新建终端”）
 - 输入命令：`pip install -r requirements.txt`，等待安装完成（出现Successfully即成功）
@@ -63,7 +63,7 @@ Key Columns: City, State, Postal Code, Model Year, Electric Vehicle Type
 - 会自动打开浏览器，显示你的项目页面（如果没自动打开，复制终端里的本地链接，粘贴到浏览器）
 - 测试功能：移动侧边栏的过滤器，看图表是否会更新；点击各个Tab，看页面是否正常显示
 
-## 五、上传项目到Github（按步骤复制命令）
+## 上传项目到Github（按步骤复制命令）
 ### 1. 初始化Git仓库
 - 在VS Code终端输入以下命令（逐行输入，按回车）：
   ```bash
